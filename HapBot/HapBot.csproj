@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net48</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AsyncAwaitBestPractices" Version="6.0.2" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      <PackageReference Include="TwitchLib.Api" Version="3.5.1-preview-454bf266f3d74f6f43f2381dea7ffa8d35c13646" />
+      <PackageReference Include="TwitchLib.Client" Version="3.2.6-preview-5e869129649a88c4cb8d7fb824f17f9397d1668b" />
+      <PackageReference Include="TwitchLib.Communication" Version="1.0.4-preview-f6db99037ed70371a7e241cb8f5581a7148f37e1" />
+      <PackageReference Include="TwitchLib.PubSub" Version="3.2.5-preview-e27b78571148879a04eaea2cf45441a35b0e908f" />
+    </ItemGroup>
+
+</Project>

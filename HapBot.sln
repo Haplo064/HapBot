@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HapBot", "HapBot\HapBot.csproj", "{CD89E0A6-5750-468C-A047-19775E3DE3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD89E0A6-5750-468C-A047-19775E3DE3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD89E0A6-5750-468C-A047-19775E3DE3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD89E0A6-5750-468C-A047-19775E3DE3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD89E0A6-5750-468C-A047-19775E3DE3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
